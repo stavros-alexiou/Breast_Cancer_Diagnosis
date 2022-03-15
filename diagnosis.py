@@ -94,3 +94,14 @@ print(y_pred)
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(Y_test, y_pred)
 sns.heatmap(cm, annot=True)
+
+# Predicting the test set results
+y_pred = model.predict(X_test)
+print(y_pred)
+y_pred = (y_pred > 0.5)
+print(y_pred)
+
+# Making the Confusion Matrix
+from sklearn.metrics import confusion_matrix
+cm = confusion_matrix(Y_test, y_pred)
+sns.heatmap(cm, annot=True)
