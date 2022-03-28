@@ -17,3 +17,12 @@ Computer Engineering Department (CEID) University of Patras (Greece).
   year={2018},
   url={https://github.com/JustGlowing/minisom/},
 }
+
+
+@online{chollet2015keras,
+  title={Keras},
+  author={Chollet, Francois and others},
+  year={2015},
+  publisher={GitHub},
+  url={https://github.com/fchollet/keras},
+}
