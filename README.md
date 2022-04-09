@@ -9,7 +9,7 @@ Supervisor: George - Peter K. Economou, gpoikonomou@ceid.upatras.gr
 Computer Engineering Department (CEID) University of Patras (Greece).
 
 
-----------REFERENCES----------
+------------------REFERENCES------------------
 
 @misc{vettigliminisom,
   title={MiniSom: minimalistic and NumPy-based implementation of the Self Organizing Map},
@@ -25,4 +25,11 @@ Computer Engineering Department (CEID) University of Patras (Greece).
   year={2015},
   publisher={GitHub},
   url={https://github.com/fchollet/keras},
+}
+
+@misc{jnez71,
+  title={kalmaNN: Extended Kalman filter for training neural-networks},
+  author={Jason Nezvadovitz},
+  year={2020},
+  url={https://github.com/jnez71/kalmaNN.git},
 }
