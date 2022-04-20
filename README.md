@@ -6,7 +6,7 @@ Creator/Author: Stavros El. Alexiou, st1059680@ceid.upatras.gr
 
 Supervisor: George - Peter K. Economou, gpoikonomou@ceid.upatras.gr 
 
-Computer Engineering Department (CEID) University of Patras (Greece).
+Computer Engineering and Informnatics Department (CEID), University of Patras (Greece).
 
 
 ------------------REFERENCES------------------
